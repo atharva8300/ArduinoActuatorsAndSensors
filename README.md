@@ -8,3 +8,5 @@ This repo consists code for using basic sensors and actuators like :
 6]Basic LCD
 7]l293d motor driver controllin 2 motors
 8]ping[udm]
+
+THE repo also consists images of the circuits .
